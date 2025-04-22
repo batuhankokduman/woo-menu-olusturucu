@@ -14,8 +14,9 @@ Hiyerarşi desteği, alt kategori filtreleme ve modern admin paneli ile birlikte
 - ✅ Açık kaynak, ücretsiz ve geliştirilebilir
 
 ## 🖥️ Ekran Görüntüsü
+Aşağıda, eklentinin yönetim paneli arayüzüne ait bir ekran görüntüsünü görebilirsiniz:
 
-📷 Görsel eklenecekse `assets/` klasörüne `screenshot.png` koyup GitHub'a yükleyebilirsin.
+![Woo Menü Oluşturucu](https://github.com/batuhankokduman/woo-menu-olusturucu/blob/main/assets/kategorileri_otomatik_olu%C5%9Ftur.png?raw=true)
 
 ## 🔧 Kurulum
 
